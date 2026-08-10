@@ -25,25 +25,6 @@
 
 <br/>
 
----
-
-```typescript
-const osama: FrontendEngineer = {
-  name:        "Osama Bakri",
-  role:        "Frontend Engineer & Product Creator",
-  experience:  "8+ years",
-  studio:      "Niftytheme",         // WHMCS themes, modules & web products
-  stack:       ["Nuxt 3", "Vue 3", "TypeScript", "Tailwind CSS"],
-  focus:       ["Design Systems", "Performance", "DX", "UI/UX"],
-  customers:   "500+",
-  products:    "50+",
-  available:    true,                // open to projects & collaborations
-  website:     "https://www.niftytheme.net",
-} as const;
-```
-
----
-
 <br/>
 
 ## Build. Grow faster. Ship what matters.
