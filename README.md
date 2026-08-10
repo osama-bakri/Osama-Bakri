@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=15&pause=1200&color=00B894&center=true&vCenter=true&width=550&lines=Frontend+Engineer+%E2%80%94+8%2B+Years;Creator+of+NiftyTheme+%E2%80%94+500%2B+Customers;Nuxt+3+%C2%B7+Vue+3+%C2%B7+TypeScript+%C2%B7+Tailwind;Design+Systems+%C2%B7+Performance+%C2%B7+DX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=15&pause=1200&color=00B894&center=true&vCenter=true&width=550&lines=Frontend+Engineer+%E2%80%94+8%2B+Years;Creator+of+Niftytheme+%E2%80%94+500%2B+Customers;Nuxt+3+%C2%B7+Vue+3+%C2%B7+TypeScript+%C2%B7+Tailwind;Design+Systems+%C2%B7+Performance+%C2%B7+DX)](https://git.io/typing-svg)
 
 </div>
 
