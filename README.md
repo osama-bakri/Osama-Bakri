@@ -136,13 +136,6 @@ Fast, optimized, built for speed from day one. LCP < 1.5s target, always.
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=osama-bakri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1410&title_color=006e59&icon_color=00b894&text_color=7a9186&ring_color=006e59"/>
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-bakri&layout=compact&theme=dark&hide_border=true&bg_color=0d1410&title_color=006e59&text_color=7a9186"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-bakri&theme=dark&hide_border=true&background=0D1410&ring=006e59&fire=00b894&currStreakLabel=7a9186&sideLabels=7a9186&currStreakNum=e8ede9&sideNums=e8ede9&dates=3d5249"/>
 
 </div>
