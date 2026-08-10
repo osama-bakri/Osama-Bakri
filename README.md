@@ -32,7 +32,7 @@ const osama: FrontendEngineer = {
   name:        "Osama Bakri",
   role:        "Frontend Engineer & Product Creator",
   experience:  "8+ years",
-  studio:      "NiftyTheme",         // WHMCS themes, modules & web products
+  studio:      "Niftytheme",         // WHMCS themes, modules & web products
   stack:       ["Nuxt 3", "Vue 3", "TypeScript", "Tailwind CSS"],
   focus:       ["Design Systems", "Performance", "DX", "UI/UX"],
   customers:   "500+",
@@ -151,7 +151,7 @@ Fast, optimized, built for speed from day one. LCP < 1.5s target, always.
 
 ---
 
-## Flagship Project — NiftyTheme
+## Flagship Project — Niftytheme
 
 > **Premium WHMCS Templates & Web Products**
 > Trusted by hosting providers and online businesses worldwide.
@@ -185,7 +185,7 @@ Fast, optimized, built for speed from day one. LCP < 1.5s target, always.
 <br/>
 
 <div align="center">
-<sub>© 2026 Osama Bakri · NiftyTheme · We design, develop, and ship digital products that help businesses grow and scale online.</sub>
+<sub>© 2026 Osama Bakri · Niftytheme · We design, develop, and ship digital products that help businesses grow and scale online.</sub>
 </div>
 
 <br/>
