@@ -123,7 +123,7 @@ Fast, optimized, built for speed from day one. LCP < 1.5s target, always.
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=osama-bakri&theme=dark&hide_border=true&background=0D1410&ring=006e59&fire=00b894&currStreakLabel=7a9186&sideLabels=7a9186&currStreakNum=e8ede9&sideNums=e8ede9&dates=3d5249"/>
+<img src="https://streak-stats.demolab.com?user=osama-bakri&theme=dark&hide_border=true&background=0D1410&ring=006e59&fire=00b894&currStreakLabel=7a9186&sideLabels=7a9186&currStreakNum=e8ede9&sideNums=e8ede9&dates=3d5249"/>
 </div>
 
 <br/>
