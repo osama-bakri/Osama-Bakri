@@ -21,9 +21,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=15&pause=1200&color=00B894&center=true&vCenter=true&width=550&lines=Frontend+Engineer+%E2%80%94+8%2B+Years;Creator+of+Niftytheme+%E2%80%94+500%2B+Customers;Nuxt+3+%C2%B7+Vue+3+%C2%B7+TypeScript+%C2%B7+Tailwind;Design+Systems+%C2%B7+Performance+%C2%B7+DX)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=osama-bakri&label=Profile%20Views&color=006e59&style=for-the-badge&labelColor=0D1410)
+
+</div>
 
 <br/>
 
@@ -113,12 +115,35 @@ Fast, optimized, built for speed from day one. LCP < 1.5s target, always.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=osama-bakri&show_icons=true&hide_border=true&bg_color=0D1410&title_color=00B894&icon_color=006e59&text_color=e8ede9&ring_color=006e59"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-bakri&layout=compact&hide_border=true&bg_color=0D1410&title_color=00B894&text_color=e8ede9&langs_count=8"/>
+</div>
 
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-bakri&theme=dark&hide_border=true&background=0D1410&ring=006e59&fire=00b894&currStreakLabel=7a9186&sideLabels=7a9186&currStreakNum=e8ede9&sideNums=e8ede9&dates=3d5249"/>
+</div>
 
+<br/>
+
+---
+
+## Activity — Last 31 Days
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osama-bakri&bg_color=0D1410&color=00b894&line=006e59&point=e8ede9&area=true&area_color=006e59&hide_border=true&custom_title=Last%2031%20Days%20of%20Activity"/>
+</div>
+
+<br/>
+
+---
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=osama-bakri&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <br/>
