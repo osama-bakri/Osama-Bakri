@@ -143,7 +143,7 @@ Fast, optimized, built for speed from day one. LCP < 1.5s target, always.
 ## Trophies
 
 <div align="center">
-
+<img src="./assets/trophies.svg" width="100%" alt="GitHub Achievements"/>
 </div>
 
 <br/>
